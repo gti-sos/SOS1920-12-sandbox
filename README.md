@@ -16,4 +16,4 @@ Grupo de trabajo numero 12 para la asignatura SOS en el curso academico 2019-202
 
 `git checkout -b [nombre de la rama]` Para crear un branch o rama 
 
-No se en que rama estoy
+Nunca hacer merge de esta rama con la master
