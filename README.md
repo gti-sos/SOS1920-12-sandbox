@@ -15,3 +15,5 @@ Grupo de trabajo numero 12 para la asignatura SOS en el curso academico 2019-202
 `git pull` Para traerte todos los cambios realizados en el repositorio github a tu propio repositorio
 
 `git checkout -b [nombre de la rama]` Para crear un branch o rama 
+
+No se en que rama estoy
