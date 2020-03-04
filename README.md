@@ -16,4 +16,6 @@ Grupo de trabajo numero 12 para la asignatura SOS en el curso academico 2019-202
 
 `git checkout -b [nombre de la rama]` Para crear un branch o rama 
 
-`git checkout  [nombre de la rama]` Para cambiar entre las ramas
+`git branch` Para saber en que rama estamos 
+
+`git checkout  [nombre de la rama]` Para cambiar a una rama diferente 
